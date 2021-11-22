@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi,
+- 🪶 I’m Piuma
+- ✨ I are 14 years old
+- 💳 I'm currently fooling around
+- 🏙 I’m of Tourin, Italy
 
-<!--
-**PiumaDev/PiumaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Social
 
-Here are some ideas to get you started:
+- Instagram: https://instagram.com/piumadev
+- Tiktok: *Soon*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Projects
+
+- https://client.greatnetwork.eu / https://dash.greatnetwork.eu __Hosting__
+- greatnetwork.eu MC
